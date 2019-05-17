@@ -1,8 +1,6 @@
 A
 B
 C
-D
-E
 H
 I
 F
@@ -14,3 +12,4 @@ M
 NOP
 Q
 R
+
