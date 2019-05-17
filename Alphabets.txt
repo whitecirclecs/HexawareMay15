@@ -12,4 +12,7 @@ M
 NOP
 Q
 R
+s
+t
+u
 
